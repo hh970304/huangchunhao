@@ -1,3 +1,2 @@
 # huangchunhao
-first repository
-first step in github
+first to learn github
